@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "temphum",
+    "slug": "temphum",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "temphum"
+}
